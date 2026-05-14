@@ -1,1 +1,1 @@
-# facebook-bot-rate-limiter
+# bot-rate-limiter
